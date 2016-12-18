@@ -19,7 +19,7 @@
 		}
 		else {
 			$tailsCount = 0;
-			echo "<div class=\"coin\">T</div>;
+			echo "<div class=\"coin\">T</div>";
 		}
 	}
 	echo "<p>It took {$flipCount} flips to get three tails in a row!</p>";
